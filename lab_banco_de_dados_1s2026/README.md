@@ -1,1 +1,0 @@
-# lab_banco_de_dados_1s2026
